@@ -1,7 +1,7 @@
 # Name variations project
 
-Solution for Strings project on [Learn JavaScript](https://learnjavascript.online) course.
+Solution to the Strings Project on [Learn JavaScript](https://learnjavascript.online) course.
 
-That's to improve my knowledge with working with strings in JavaScript.
+That's to improve my knowledge of working with strings in JavaScript.
 
 
